@@ -15,6 +15,10 @@
 		"react": "16.0.0",
 		"react-native": "0.50.3",
 		"react-redux": "5.0.6",
+		"appcenter": "^1.4.0",
+		"appcenter-analytics": "^1.4.0",
+		"appcenter-crashes": "^1.4.0",
+		"react-native-code-push": "^5.3.2",
 		"redux": "3.7.2",
 		"tslib": "1.8.0",
 		"typescript": "^2.7.0-dev.20171122"
